@@ -1,2 +1,7 @@
 # Hello-world
-Hello world with java
+public class Deewakar {
+public static void main(String args [])
+{
+System.out.println("Hello world");
+}
+}
